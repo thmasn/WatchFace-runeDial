@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\thoomas\eclipse-workspace\runeDial\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialApp.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialApp.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialApp.mc" id="4" lineNum="12" pc="268435479" symbol="onStart"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialApp.mc" id="5" lineNum="16" pc="268435484" symbol="onStop"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialApp.mc" id="6" lineNum="20" pc="268435489" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialApp.mc" id="6" lineNum="21" pc="268435493" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialApp.mc" id="6" lineNum="5" pc="268437940" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialApp.mc" id="7" lineNum="26" pc="268435531" symbol="getApp"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialApp.mc" id="7" lineNum="27" pc="268435543" symbol="getApp"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="9" lineNum="33" pc="268435560" symbol="initialize"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="9" lineNum="34" pc="268435564" symbol="initialize"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="10" lineNum="38" pc="268435583" symbol="transformSymbol"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="10" lineNum="39" pc="268435587" symbol="transformSymbol"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="10" lineNum="40" pc="268435600" symbol="transformSymbol"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="10" lineNum="41" pc="268435624" symbol="transformSymbol"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="10" lineNum="42" pc="268435631" symbol="transformSymbol"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="10" lineNum="43" pc="268435655" symbol="transformSymbol"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="10" lineNum="44" pc="268435662" symbol="transformSymbol"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="10" lineNum="45" pc="268435678" symbol="transformSymbol"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="10" lineNum="46" pc="268435694" symbol="transformSymbol"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="10" lineNum="47" pc="268435710" symbol="transformSymbol"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="10" lineNum="48" pc="268435726" symbol="transformSymbol"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="10" lineNum="49" pc="268435736" symbol="transformSymbol"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="10" lineNum="50" pc="268435746" symbol="transformSymbol"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="10" lineNum="51" pc="268435799" symbol="transformSymbol"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="11" lineNum="57" pc="268435879" symbol="onLayout"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="11" lineNum="58" pc="268435883" symbol="onLayout"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="12" lineNum="64" pc="268435921" symbol="onShow"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="68" pc="268435926" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="69" pc="268435930" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="70" pc="268435942" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="71" pc="268435967" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="72" pc="268435985" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="73" pc="268435992" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="74" pc="268436002" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="75" pc="268436021" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="76" pc="268436037" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="77" pc="268436056" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="78" pc="268436078" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="80" pc="268436113" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="84" pc="268436126" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="85" pc="268436137" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="13" lineNum="88" pc="268436154" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="16" lineNum="133" pc="268436674" symbol="onHide"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="17" lineNum="137" pc="268436679" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="18" lineNum="141" pc="268436684" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="18" lineNum="6" pc="268436913" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\thoomas\\eclipse-workspace\\runeDial\\source\\runeDialView.mc" id="18" lineNum="15" pc="268436931" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="24" lineNum="17" pc="268436689" symbol="WatchFace"/>
+        <entry filename="Rez" id="24" lineNum="19" pc="268436701" symbol="WatchFace"/>
+        <entry filename="Rez" id="24" lineNum="21" pc="268436864" symbol="WatchFace"/>
+        <entry filename="Rez" id="26" lineNum="1" pc="268436883" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="21" symbol="&lt;globals/runeDialView/&lt;&gt;symbols&gt;"/>
+        <entry id="24" method="true" symbol="&lt;globals/runeDialView/&lt;&gt;updateWatchOverlay&gt;"/>
+        <entry field="true" id="19" symbol="&lt;globals/runeDialView/&lt;&gt;doFullUpdate&gt;"/>
+        <entry field="true" id="15" symbol="&lt;globals/runeDialView/&lt;&gt;_isAwake&gt;"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="18" symbol="&lt;globals/runeDialView/&lt;&gt;center&gt;"/>
+        <entry field="true" id="14" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="23" method="true" symbol="&lt;globals/runeDialView/&lt;&gt;drawSymbol&gt;"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="16" symbol="&lt;globals/runeDialView/&lt;&gt;animationTicks&gt;"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="10" object="true" symbol="runeDialView"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="22" method="true" symbol="transformSymbol"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="9" object="true" symbol="runeDialApp"/>
+        <entry id="8391701" method="true" symbol="setAntiAlias"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="20" symbol="&lt;globals/runeDialView/&lt;&gt;symbolsInitiallized&gt;"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="17" symbol="&lt;globals/runeDialView/&lt;&gt;animationTimer&gt;"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435483" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435488" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268435851" name="x" stackId="11" startPc="268435655"/>
+        <entry endPc="268435851" name="point" stackId="10" startPc="268435655"/>
+        <entry endPc="268435851" name="y" stackId="12" startPc="268435655"/>
+        <entry endPc="268435864" name="p" stackId="9" startPc="268435655"/>
+        <entry endPc="268435864" name="line" stackId="8" startPc="268435624"/>
+        <entry endPc="268435877" name="l" stackId="7" startPc="268435624"/>
+        <entry endPc="268435877" name="symbol" stackId="6" startPc="268435587"/>
+        <entry arg="true" endPc="268435878" name="index" stackId="1" startPc="268435583"/>
+        <entry arg="true" endPc="268435878" name="rotation" stackId="5" startPc="268435583"/>
+        <entry arg="true" endPc="268435878" name="positionY" stackId="3" startPc="268435583"/>
+        <entry arg="true" endPc="268435878" name="positionX" stackId="2" startPc="268435583"/>
+        <entry arg="true" endPc="268435878" name="scale" stackId="4" startPc="268435583"/>
+        <entry arg="true" endPc="268435920" name="dc" stackId="1" startPc="268435879"/>
+        <entry endPc="268436099" name="symbolOriginY" stackId="7" startPc="268435985"/>
+        <entry endPc="268436099" name="symbolOriginX" stackId="6" startPc="268435985"/>
+        <entry endPc="268436099" name="rotation" stackId="8" startPc="268435985"/>
+        <entry endPc="268436099" name="symbolSize" stackId="4" startPc="268435985"/>
+        <entry endPc="268436099" name="symbolScale" stackId="3" startPc="268435985"/>
+        <entry endPc="268436099" name="symbolCenterRadius" stackId="5" startPc="268435985"/>
+        <entry endPc="268436112" name="i" stackId="2" startPc="268435985"/>
+        <entry arg="true" endPc="268436168" name="dc" stackId="1" startPc="268435926"/>
+        <entry endPc="268436316" name="end" stackId="10" startPc="268436241"/>
+        <entry endPc="268436316" name="start" stackId="9" startPc="268436241"/>
+        <entry endPc="268436329" name="p" stackId="8" startPc="268436241"/>
+        <entry endPc="268436329" name="line" stackId="7" startPc="268436210"/>
+        <entry endPc="268436342" name="l" stackId="6" startPc="268436210"/>
+        <entry endPc="268436342" name="symbol" stackId="5" startPc="268436173"/>
+        <entry arg="true" endPc="268436343" name="dc" stackId="1" startPc="268436169"/>
+        <entry arg="true" endPc="268436343" name="positionY" stackId="4" startPc="268436169"/>
+        <entry arg="true" endPc="268436343" name="positionX" stackId="3" startPc="268436169"/>
+        <entry arg="true" endPc="268436343" name="symbolindex" stackId="2" startPc="268436169"/>
+        <entry endPc="268436672" name="filldirection" stackId="4" startPc="268436348"/>
+        <entry endPc="268436672" name="secondaryColor" stackId="3" startPc="268436348"/>
+        <entry endPc="268436672" name="primaryColor" stackId="2" startPc="268436348"/>
+        <entry endPc="268436672" name="pwidth" stackId="5" startPc="268436348"/>
+        <entry arg="true" endPc="268436673" name="dc" stackId="1" startPc="268436344"/>
+        <entry endPc="268436880" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268436701"/>
+        <entry arg="true" endPc="268436881" name="dc" stackId="1" startPc="268436689"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Rez" offset="158" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="237" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="276" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="307" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="338" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="377" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="408" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/runeDialView" offset="447" parentId="globals" symbolId="runeDialView" type="class"/>
+        <dataEntry label="globals/runeDialApp" offset="622" parentId="globals" symbolId="runeDialApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="runeDialApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="runeDialApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="runeDialApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="runeDialApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="runeDialView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="transformSymbol" parent="runeDialView">
+            <param id="index"/>
+            <param id="positionX"/>
+            <param id="positionY"/>
+            <param id="scale"/>
+            <param id="rotation"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="runeDialView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="runeDialView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="runeDialView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/runeDialView/&lt;&gt;drawSymbol&gt;" parent="runeDialView">
+            <param id="dc"/>
+            <param id="symbolindex"/>
+            <param id="positionX"/>
+            <param id="positionY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/runeDialView/&lt;&gt;updateWatchOverlay&gt;" parent="runeDialView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="runeDialView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="runeDialView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="runeDialView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
